@@ -6,4 +6,7 @@ export default {
     EMAIL_STORAGE:'email_storage',
     AVATAR_STORAGE:'avatar_storage',
     GENDER_STORAGE:'gender_storage',
+    PHONE_STORAGE:'phone_storage',
+    DESC_STORAGE:'desc_storage',
+    SOCIALS_STORAGE:'socials_storage',
 }
